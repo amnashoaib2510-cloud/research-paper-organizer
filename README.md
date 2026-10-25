@@ -4,6 +4,10 @@ A full-stack MERN web application that helps students, researchers, and professo
 
 **Live demo:** https://researchhub-ai-kappa.vercel.app
 (The backend runs on Render's free tier, so the first request may take 30-60 seconds to wake up.)
+## Screenshots
+
+![Archive view](./screenshots/dashboard.png)
+![Upload](./screenshots/entry.png)
 
 ## Features
 
